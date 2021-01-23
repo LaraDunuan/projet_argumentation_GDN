@@ -1,0 +1,39 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+19
+"<E>" 37 270 9 2 6 7 11 12 13 14 15 17 
+"" 554 270 0 
+"au" 174 97 2 3 4 
+"contraire" 338 129 1 1 
+"lieu" 289 97 1 5 
+"de" 375 97 1 1 
+"cependant" 170 198 1 1 
+"en" 170 161 2 8 10 
+"dépit" 289 161 1 9 
+"de" 378 161 1 1 
+"revanche" 288 191 1 1 
+"pourtant" 171 233 1 1 
+"mais" 171 270 1 1 
+"malgré" 169 305 1 1 
+"néanmoins" 168 342 1 1 
+"tandis+plutôt+alors" 167 392 1 16 
+"que+qu'" 291 392 1 1 
+"quand" 165 447 1 18 
+"même" 289 447 1 1 

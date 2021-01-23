@@ -1,0 +1,40 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+20
+"<E>" 70 200 9 2 3 4 5 6 9 11 13 15 
+"" 530 200 0 
+"ainsi," 262 56 1 1 
+"donc" 261 91 1 1 
+"alors" 261 128 1 1 
+"conséquemment" 259 163 1 1 
+"de" 173 200 1 7 
+"cette" 258 200 1 8 
+"façon" 376 200 1 1 
+"voilà" 168 308 1 10 
+"pourquoi" 254 308 1 1 
+"en" 171 236 1 12 
+"conséquence" 256 236 1 1 
+"par" 169 272 1 14 
+"conséquent" 256 272 1 1 
+"pour" 166 344 2 16 18 
+"ces" 252 344 1 17 
+"motifs" 359 344 1 1 
+"cette" 251 383 1 19 
+"raison" 357 383 1 1 

@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 70 200 3 3 2 5 
+"" 510 200 0 
+"<V>" 272 200 3 4 1 6 
+"ne" 118 140 2 2 5 
+"pas+plus+que+qu'+point" 426 140 1 1 
+"<PRO>" 197 151 1 2 
+"<ADV>" 331 133 1 4 
